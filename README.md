@@ -13,7 +13,7 @@ This project focuses on analyzing oil price trends and their correlations with v
 
 Below is an example scatter plot (`timesfmscatter2`) used in the analysis:
 
-![Scatter Plot](.resources/img/timesfmscatter2.png)
+![Scatter Plot](\resources\img\timesfmscatter2.png)
 
 ## How to Use
 
