@@ -38,10 +38,6 @@ Below is an example scatter plot (`timesfmscatter2`) used in the analysis:
 - Python 3.8 or higher
 - Required libraries are listed in `requirements.txt`.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
 ---
 
 Feel free to contribute to this project by submitting issues or pull requests!
