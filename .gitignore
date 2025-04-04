@@ -1,7 +1,8 @@
-.env
+.env/
 ENV
-.vevn
-venv
+.venv/
+venv/
 cache
 hub
 resources
+__pycache__/
