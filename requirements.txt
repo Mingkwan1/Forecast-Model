@@ -1,0 +1,13 @@
+timesfm[torch]
+torch
+jax
+# praxis
+
+numpy
+pandas
+matplotlib
+openpyxl
+scikit-learn
+
+IPython
+dataclasses
